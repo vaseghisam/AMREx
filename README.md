@@ -5,7 +5,9 @@ The prototype `amrex.py` involves logger, and you will need to set the level of 
 
 ### EXAMPLE .env file
 OPENAI_API_KEY=sk-...
+
 HF_TOKEN=hf_...
+
 ASSISTANT_ID_1=asst_...
 
 
